@@ -1,4 +1,3 @@
-# Spider-1
 import time
 from time import sleep
 from turtle import *
